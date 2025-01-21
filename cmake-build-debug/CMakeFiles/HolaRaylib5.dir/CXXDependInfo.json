@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/CHRISTIAN/CLionProjects/HolaRaylib5/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/CHRISTIAN/CLionProjects/HolaRaylib5",
+	"dir-top-bld" : "C:/Users/CHRISTIAN/CLionProjects/HolaRaylib5/cmake-build-debug",
+	"dir-top-src" : "C:/Users/CHRISTIAN/CLionProjects/HolaRaylib5",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\CHRISTIAN\\CLionProjects\\HolaRaylib5\\raylib-5.0\\src",
+		"C:\\Users\\CHRISTIAN\\CLionProjects\\HolaRaylib5\\raylib-5.0\\src\\external\\glfw\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/CHRISTIAN/CLionProjects/HolaRaylib5/cmake-build-debug/CMakeFiles/HolaRaylib5.dir"
+}
